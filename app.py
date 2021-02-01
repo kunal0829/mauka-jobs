@@ -5,7 +5,7 @@ import re
 from googleapiclient.discovery import build
 import requests
 
-my_api_key = "AIzaSyCK6ggQxTBGVDUe2AhiivaU5fK0pgREjoE"
+my_api_key = ""
 YT_SEARCH_ID = "9c71e23e36e197d73"
 
 app = Flask(__name__)
